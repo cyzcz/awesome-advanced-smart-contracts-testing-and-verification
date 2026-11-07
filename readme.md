@@ -36,6 +36,7 @@ Arsenal of fuzzing and verification tools, tailor-made for probing and dissectin
 - [**Gambit | Solidity mutation system**](https://github.com/Certora/gambit)
 - [**Vertigo-rs | Ethereum smart contract mutation testing framework**](https://github.com/JoranHonig/vertigo)
 - [**Bulloak | Solidity test generator based on the Branching Tree Technique**](https://github.com/alexfertel/bulloak)
+- [**Chain.Love | Open-source directory of smart contract security tools, fuzzers, formal verification provers, and RPC infrastructure.**](https://chain.love/) ([GitHub](https://github.com/Chain-Love/chain-love))
 
 ## Fuzzing
 
